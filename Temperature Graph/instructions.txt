@@ -1,0 +1,7 @@
+Instructions:
+(Microsoft Windows Users Only)
+
+Unzip all files and add to desktop. Take both of the .dll files in the DLLFILES.zip folder, and add them to the 
+following location on your computer if not already there: C:\Program Files\Java\jre6\bin.
+
+After adding these files, now make a Java project using preferable the Eclipse IDE. Add both of the .java files in the Temperature Graph.zip file into the project. The Graph.java file will be the file you will run. After adding these files, add the .jar files in both the RXTX.zip folder and the JFreeChart.zip folder as new libraries. Now, before running the program, please attach the arduino microcontroller via USB. The program is now ready to be run. Run the program, and the graph should pop up on the screen. The graph is scalable with the mouse to your preferred size. You may change the window size of the graph to either 60s or 300s using the buttons on top. The buttons on the right change the temperature display to either celsius or fahrenheit. The "Toggle LED" button on bottom will turn the LED on the microcontroller on or off. If you disconnect the USB device, please close out of the application before running it again. 
